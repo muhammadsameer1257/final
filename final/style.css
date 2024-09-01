@@ -47,5 +47,8 @@
     min-height: 65vh;
 }
 
+.services__card {
+    padding: 2rem;
+}
     
 }
